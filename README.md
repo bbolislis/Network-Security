@@ -1,1 +1,1 @@
-# Network-Security-Automation Activities
+# Network Security Automation
